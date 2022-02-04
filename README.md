@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NexhaCode
+- 🇮🇩 I'm from indonesia
+- 😶 I'm still learn about cpp,js,ruby,html:(
+- 💬 My Instagram: @haichelheaven
